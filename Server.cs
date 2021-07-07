@@ -1,6 +1,6 @@
 //Server Model
 class Server{
-    private string port;
+    private int port;
     private string protocol;
     private int timeout;
 }
